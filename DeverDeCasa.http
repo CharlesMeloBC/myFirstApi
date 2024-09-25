@@ -1,0 +1,6 @@
+@DeverDeCasa_HostAddress = http://localhost:5032
+
+GET {{DeverDeCasa_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

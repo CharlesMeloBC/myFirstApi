@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DeverDeCasa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b6d058e34c37e38b55554b2bb361c7304eeb3da")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5868db9d966c6b29eba6888ba7c170c3fdc384b6")]
 [assembly: System.Reflection.AssemblyProductAttribute("DeverDeCasa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DeverDeCasa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

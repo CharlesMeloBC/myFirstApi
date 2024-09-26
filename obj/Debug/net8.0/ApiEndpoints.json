@@ -1,7 +1,53 @@
 [
   {
     "ContainingType": "DeverDeCasa.Controllers.EmailsController",
-    "Method": "postMensagem",
+    "Method": "CreatePost",
+    "RelativePath": "Emails",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "mensagem",
+        "Type": "DeverDeCasa.Controllers.MensagemModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DeverDeCasa.Controllers.MensagemModel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DeverDeCasa.Controllers.EmailsController",
+    "Method": "GetPosts",
+    "RelativePath": "Emails",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[DeverDeCasa.Controllers.MensagemModel, DeverDeCasa, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DeverDeCasa.Controllers.EmailsController",
+    "Method": "PostMensagem",
     "RelativePath": "Emails/mensagem",
     "HttpMethod": "POST",
     "IsController": true,
@@ -9,7 +55,7 @@
     "Parameters": [
       {
         "Name": "mensagem",
-        "Type": "DeverDeCasa.Controllers.EmailsController\u002BMensagemModel",
+        "Type": "DeverDeCasa.Controllers.MensagemModel",
         "IsRequired": true
       }
     ],

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8WoKVCephHg=",
+  "dgSpecHash": "y50okPOw0Vs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Charles\\source\\repos\\DeverDeCasa\\DeverDeCasa.csproj",
+  "projectFilePath": "C:\\Users\\Charles\\Desktop\\DeverDeCasa\\DeverDeCasa.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Charles\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Charles\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

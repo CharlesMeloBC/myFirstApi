@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Charles\\source\\repos\\DeverDeCasa\\",
+  "WorkspaceRootPath": "C:\\Users\\Charles\\Desktop\\DeverDeCasa\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0DEDCAA8-706B-44BC-98F1-BF6773C2A994}|DeverDeCasa.csproj|c:\\users\\charles\\source\\repos\\deverdecasa\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DEDCAA8-706B-44BC-98F1-BF6773C2A994}|DeverDeCasa.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0DEDCAA8-706B-44BC-98F1-BF6773C2A994}|DeverDeCasa.csproj|c:\\users\\charles\\desktop\\deverdecasa\\controllers\\emailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEDCAA8-706B-44BC-98F1-BF6773C2A994}|DeverDeCasa.csproj|solutionrelative:controllers\\emailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DEDCAA8-706B-44BC-98F1-BF6773C2A994}|DeverDeCasa.csproj|c:\\users\\charles\\source\\repos\\deverdecasa\\deverdecasa.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{0DEDCAA8-706B-44BC-98F1-BF6773C2A994}|DeverDeCasa.csproj|solutionrelative:deverdecasa.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{0DEDCAA8-706B-44BC-98F1-BF6773C2A994}|DeverDeCasa.csproj|c:\\users\\charles\\desktop\\deverdecasa\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEDCAA8-706B-44BC-98F1-BF6773C2A994}|DeverDeCasa.csproj|solutionrelative:models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEDCAA8-706B-44BC-98F1-BF6773C2A994}|DeverDeCasa.csproj|c:\\users\\charles\\desktop\\deverdecasa\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DEDCAA8-706B-44BC-98F1-BF6773C2A994}|DeverDeCasa.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,26 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\Charles\\source\\repos\\DeverDeCasa\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\Charles\\source\\repos\\DeverDeCasa\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "EmailsController.cs",
+              "DocumentMoniker": "C:\\Users\\Charles\\Desktop\\DeverDeCasa\\Controllers\\EmailsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmailsController.cs",
+              "ToolTip": "C:\\Users\\Charles\\Desktop\\DeverDeCasa\\Controllers\\EmailsController.cs",
+              "RelativeToolTip": "Controllers\\EmailsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T17:58:29.816Z",
+              "WhenOpened": "2024-09-25T18:35:30.949Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DeverDeCasa",
-              "DocumentMoniker": "C:\\Users\\Charles\\source\\repos\\DeverDeCasa\\DeverDeCasa.csproj",
-              "RelativeDocumentMoniker": "DeverDeCasa.csproj",
-              "ToolTip": "C:\\Users\\Charles\\source\\repos\\DeverDeCasa\\DeverDeCasa.csproj",
-              "RelativeToolTip": "DeverDeCasa.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-25T17:58:57.324Z",
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\Charles\\Desktop\\DeverDeCasa\\Models\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Models\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\Charles\\Desktop\\DeverDeCasa\\Models\\Pessoa.cs*",
+              "RelativeToolTip": "Models\\Pessoa.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T18:05:02.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Charles\\Desktop\\DeverDeCasa\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Charles\\Desktop\\DeverDeCasa\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T18:01:10.066Z",
               "EditorCaption": ""
             }
           ]
